@@ -1,7 +1,7 @@
 ## Hi there 👋, Welcome!
 ![Bannière]()
 
-Hello  👋 My name is Lucien Kanani. I am from Don Bosco University of Lubumbashi taking courses in Computer Ingineering.
+Hello  👋 My name is Lucien Kanani. I am from Don Bosco University of Lubumbashi taking courses in Computer Engineering.
 
 I am passionate about the development of task automation scripts, embedded computing, and web development. Currently studying Tailwind CSS, JavaScript, Django and Odoo ERP.
 Currently GDSC Lead in my University.
