@@ -1,10 +1,11 @@
 ## Hi there 👋, Welcome!
 ![Bannière]()
 
-Hello  👋 My name is Lucien Kanani. I am from Don Bosco University of Lubumbashi taking courses in Computer Engineering.
+Hello  👋 My name is **Lucien Kanani**. I am from Don Bosco University of Lubumbashi taking courses in Computer Engineering.
 
-I am passionate about the development of task automation scripts, embedded computing, and web development. Currently studying Tailwind CSS, JavaScript, Django and Odoo ERP.
-Currently GDSC Lead in my University.
+I am passionate about the development of task automation scripts, embedded computing, and web development.  
+Currently studying Tailwind CSS, JavaScript, Django and Odoo ERP.  
+Currently GDSC Lead in my University.  
 I love to join different community and competition that involve creating something for the society !
 
 **Skills:**
@@ -17,4 +18,4 @@ Electronics Engineer | Embedded Computing | Python Developer | Full Stack Web Dv
 - 🌱 I’m currently learning Tailwind CSS framework, JavaScript, Django framework and Odoo ERP.
 - 📫 How to reach me: Lucien Kanani (LinkedIn, Facebook, X)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: On the day of my death, be sure that the cause of death will be humility.
+- ⚡ Fun fact: **On the day of my death, be sure that the cause of death will be humility.**
