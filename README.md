@@ -14,7 +14,7 @@ Electronics Engineer | Embedded Computing | Python Developer | Full Stack Web Dv
 **Tools:**
 ![Pycharm logo]() ![Arduino logo]() ![HTML]()
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on my Portfolio https://lucienkanani.me 
 - 🌱 I’m currently learning Tailwind CSS framework, JavaScript, Django framework and Odoo ERP.
 - 📫 How to reach me: Lucien Kanani (LinkedIn, Facebook, X)
 - 😄 Pronouns: He/Him
